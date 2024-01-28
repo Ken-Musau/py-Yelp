@@ -35,6 +35,5 @@ ken = Customer("Kennedy", "Musau")
 marge = Customer("Marge", "Lenana")
 john = Customer("John", "doe")
 
-# print(ken.given_name)
-# ken.set_given_name("Steve")
+
 print(Customer.all_customers)
